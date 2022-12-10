@@ -6,5 +6,5 @@ Liczbę losujemy do skutku podając kolejne propozycje i sugerując się instruk
 
 Instrukcja uruchomienia:
 1. Wejdź z poziomu terminala do katalogu z grą.
-2. Uruchom ją przy pomocy polecenia <code>python3 exercise_1.py".</code>
+2. Uruchom ją przy pomocy polecenia <code>python3 exercise_1.py.</code>
 3. Wykonuj polecenia wyświetlające się na ekranie.
