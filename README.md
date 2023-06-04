@@ -1,10 +1,9 @@
-# Zadanie-1---Warsztat
-Zadanie 1 z warsztatu - gra w zgadywanie liczb
+# Guessing Game
 
-Ta aplikacja to prosta gra, w której zadaniem gracza jest wylosowanie liczby w zakresie od 1 do 100 włącznie.
-Liczbę losujemy do skutku podając kolejne propozycje i sugerując się instrukcjami "Too big!" oraz "Too small!".
+This app is a simple game - user has to pick a random number betweenn 1 and 100 (including both ends).
+Program guesses the number based on the instructions "Too big!" and "Too small!".
 
-Instrukcja uruchomienia:
-1. Wejdź z poziomu terminala do katalogu z grą.
-2. Uruchom ją przy pomocy polecenia <code>python3 exercise_1.py.</code>
-3. Wykonuj polecenia wyświetlające się na ekranie.
+Setup:
+1. Enter the folder that contains the game.
+2. Run it using <code>python3 guessing_game.py.</code>
+3. Execute commands displayed on the screen.
